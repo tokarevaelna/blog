@@ -14,5 +14,12 @@
       <guid>https://tokarevaelna.github.io/blog/posts/org/</guid>
       <description>Hello, this is my first blog post!</description>
     </item>
+    <item>
+      <title>My Second Blog Post</title>
+      <link>https://tokarevaelna.github.io/blog/posts/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tokarevaelna.github.io/blog/posts/1/</guid>
+      <description>Hello, this is my second blog post!</description>
+    </item>
   </channel>
 </rss>
