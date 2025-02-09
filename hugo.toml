@@ -1,4 +1,5 @@
-baseURL = 'https://tokarevaelna.github.io'
+baseURL = 'https://tokarevaelna.github.io/blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "paper"
+publishDir = "docs"
