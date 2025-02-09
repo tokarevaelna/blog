@@ -1,0 +1,5 @@
+#+HUGO_BASE_DIR: ~/src/mysite/
+#+HUGO_SECTION: posts
+#+TITLE: My Second Blog Post
+
+Hello, this is my second blog post!
